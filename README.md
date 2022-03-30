@@ -16,14 +16,15 @@
 <img hight="282" width="500" alt="GIF" align="right" src="https://github.com/TarunPereddi/TarunPereddi/blob/main/Images/2nd.gif">
 
 ### - Learning :
-- ✨ 
-- ✨ 
+- ✨ Penetration Testing
+- ✨ Linux System administration 
+- ✨ Security+ & Network+ Training
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Basketball Addict
 - ✨ Watching Anime
-- ✨ 
-- ✨ 
+- ✨ Gym
+- ✨ Gameing
 
 </br>
 </br>
