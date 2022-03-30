@@ -1,4 +1,4 @@
-# Konnichiwa 👋
+# Konnichiwa <img hight="80" width="80" alt="PNG" src="https://github.com/TarunPereddi/TarunPereddi/blob/main/Images/m1.png">
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TarunPereddi/TarunPereddi/blob/main/Images/welcome.gif">
@@ -9,7 +9,7 @@
 </br>
 
 
-# About ME 💬 :
+# About ME <img hight="80" width="80" alt="PNG" src="https://github.com/TarunPereddi/TarunPereddi/blob/main/Images/m2.png"> :
 
 ### - I'm 20 years old Cybersecurity Enthusiast from India.
 
