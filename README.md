@@ -24,7 +24,7 @@
 - ✨ Basketball Addict
 - ✨ Watching Anime
 - ✨ Gym
-- ✨ Gameing
+- ✨ Gaming
 
 </br>
 </br>
